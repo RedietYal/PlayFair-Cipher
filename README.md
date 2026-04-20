@@ -1,4 +1,4 @@
-# Playfair Cipher GUI (Python)
+# Playfair Cipher GUI
 
 A desktop GUI application to encrypt and decrypt text using the Playfair cipher.
 
