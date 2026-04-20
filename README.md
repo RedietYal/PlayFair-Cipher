@@ -25,14 +25,10 @@ A desktop GUI application to encrypt and decrypt text using the Playfair cipher.
 From the project root:
 
 ```powershell
-python MyEnv\playfair.py
-```
-
-Or from inside `MyEnv`:
-
-```powershell
 python playfair.py
 ```
+
+
 
 ## How It Works
 
