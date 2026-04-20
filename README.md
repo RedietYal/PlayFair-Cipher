@@ -13,7 +13,7 @@ A desktop GUI application to encrypt and decrypt text using the Playfair cipher.
 
 ## Project File
 
-- Main app: `MyEnv/playfair.py`
+- Main app: playfair.py
 
 ## Requirements
 
